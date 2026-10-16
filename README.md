@@ -31,5 +31,5 @@ vetcare-platform/
 
 | Deliverable | Location |
 |---|---|
-| Workshop 1 (v2): Requirements Analysis and User Stories | [Workshops/Workshop-1-v2/](Workshops/Workshop-1-v2/README.md) |
+| Workshop 1 (v2): Requirements Analysis and User Stories | [Workshops/Workshop-1-v2/](Workshops/Workshop-1/README.md) |
 | Workshop 2: Architecture and System Design | [Workshops/Workshop-2/](Workshops/Workshop-2/README.md) |
