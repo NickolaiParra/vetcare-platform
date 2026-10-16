@@ -6,15 +6,15 @@ This folder contains the deliverable of Workshop 1 for VetCare. The full documen
 
 ## Files
 
-| File | Description |
-|---|---|
-| `Workshop-1.pdf` | Complete deliverable (single PDF) |
+| File             | Description                       |
+| ---------------- | --------------------------------- |
+| `Workshop-1-v2.pdf` | Complete deliverable (single PDF) |
 
 ## Sections
 
 ### 1. Requirements
 
-32 functional requirements (FR_01 to FR_32) and 10 non-functional requirements (NFR_01 to NFR_10), grouped by module:
+60 functional requirements (FR_01 to FR_60) and 31 non-functional requirements (NFR_01 to NFR_31). Requirements are grouped by module, and quality attributes that apply to the whole system are listed at the end:
 
 - Module 1: Authentication & Access Control (RBAC)
 - Module 2: Patient & Client Management (CRM & Clinical Records)
@@ -30,15 +30,15 @@ This folder contains the deliverable of Workshop 1 for VetCare. The full documen
 
 Stories are grouped by activity (Access & Accounts, Clients & Patients, Appointments, Hospitalization, Pharmacy & Inventory) and prioritized into three releases:
 
-| Release | Focus | Stories |
-|---|---|---|
-| Release 1 | Core clinic operations | 9 |
-| Release 2 | Hospitalization and pharmacy | 8 |
-| Release 3 | Owner portal and reminders | 3 |
+| Release   | Focus                        | Stories |
+| --------- | ---------------------------- | ------- |
+| Release 1 | Core clinic operations       | 9       |
+| Release 2 | Hospitalization and pharmacy | 8       |
+| Release 3 | Owner portal and reminders   | 3       |
 
 ### 4. References
 
-Sources that influenced the writing of the user stories, acceptance criteria and story map.
+Sources that influenced the writing of the requirements, user stories, acceptance criteria and story map.
 
 ### 5. Use of Artificial Intelligence
 
