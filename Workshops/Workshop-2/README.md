@@ -1,16 +1,17 @@
 # Workshop 2: Design Artifacts and System Modeling
 
-Deadline: October 15th, 2026, 23:00.
+Deadlines: Part 1, October 15th, 2026, 23:00. Part 2, October 30th, 2026.
 
-This folder contains the deliverable of Workshop 2 for VetCare. The full document is compiled in a single PDF, and this README points to each of its sections.
+This folder contains the deliverables of Workshop 2 for VetCare. The work was delivered in two parts, each compiled in a single PDF, and this README points to each of their sections.
 
 ## Files
 
-| File             | Description                       |
-| ---------------- | --------------------------------- |
-| `Workshop-2.pdf` | Complete deliverable (single PDF) |
+| File | Description |
+| --- | --- |
+| `Workshop-2.pdf` | Part 1: system domain, CRC cards, class diagram, relational database model and mockups |
+| `Workshop-2-part2.pdf` | Part 2: business process diagram and system architecture |
 
-## Sections
+## Part 1: Domain and Design Models
 
 ### 1. System Domain
 
@@ -34,4 +35,22 @@ Wireframes of the main screens of the application, with a brief explanation of t
 
 ### 6. References and Use of Artificial Intelligence
 
-Sources that influenced the design decisions and declaration of the use of an AI assistant.****
+Sources that influenced the design decisions and declaration of the use of AI assistants.
+
+## Part 2: Processes and Architecture
+
+### 1. Business Model Processes
+
+BPMN 2.0 diagram of the core process: clinical consultation, from appointment request to prescription and stock deduction.
+
+### 2. Architecture Diagram
+
+Layered architecture with three layers: presentation (React), application (Django and Django REST Framework, with RBAC and JWT) and data (PostgreSQL), plus the external Messaging Service for e-mail.
+
+### 3. References
+
+Sources and tools that influenced the design of the process diagram and the architecture.
+
+### 4. Use of Artificial Intelligence
+
+Declaration of the use of AI assistants during the preparation of this part.
