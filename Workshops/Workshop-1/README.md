@@ -8,7 +8,7 @@ This folder contains the deliverable of Workshop 1 for VetCare. The full documen
 
 | File             | Description                       |
 | ---------------- | --------------------------------- |
-| `Workshop-1-v2.pdf` | Complete deliverable (single PDF) |
+| `Workshop-1.pdf` | Complete deliverable (single PDF) |
 
 ## Sections
 
