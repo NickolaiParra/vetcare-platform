@@ -25,7 +25,7 @@ Centralized web platform for veterinary clinics: client and patient records, app
 ```
 vetcare-platform/
 ├── Workshops/
-│   ├── Workshop-1-v2/    Requirements, user stories and story map (v2)
+│   ├── Workshop-1/        Requirements, user stories and story map
 │   └── Workshop-2/       Architecture and system design
 ├── frontend/             React application (planned)
 └── backend/              API (planned)
@@ -34,5 +34,5 @@ vetcare-platform/
 
 | Deliverable | Location |
 |---|---|
-| Workshop 1 (v2): Requirements Analysis and User Stories | [Workshops/Workshop-1-v2/](Workshops/Workshop-1/README.md) |
+| Workshop 1: Requirements Analysis and User Stories | [Workshops/Workshop-1/](Workshops/Workshop-1/README.md) |
 | Workshop 2: Architecture and System Design | [Workshops/Workshop-2/](Workshops/Workshop-2/README.md) |
